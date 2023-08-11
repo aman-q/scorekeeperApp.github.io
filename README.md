@@ -1,6 +1,6 @@
 # Scorekeeper App using React
 
-A simple Scorekeeper app built using React, allowing users to keep track of scores for various games or activities.
+A simple Scorekeeper app built using React, allowing users to keep track of scores for Cricket Match
 
 ## Table of Contents
 
