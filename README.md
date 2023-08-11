@@ -10,7 +10,7 @@ A simple Scorekeeper app built using React, allowing users to keep track of scor
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](http://amanportfoli.me/scorekeeperApp.github.io/)
 
 ## Features
 
